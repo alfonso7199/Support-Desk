@@ -1,0 +1,8 @@
+From: Sam Okafor <sam.okafor@example.com>
+Subject: Where is my order?
+Order: ORD-50917
+Channel: chat
+
+Hi, my order was supposed to arrive last Tuesday with express shipping but the tracking
+hasn't updated in 5 days. I need it for a trip this weekend. Can you check what's going
+on and let me know if it'll make it in time? Thanks.

@@ -1,0 +1,8 @@
+From: Priya Nair <priya.nair@example.com>
+Subject: Suggestion: dark mode in the app
+Channel: chat
+
+Love the app! One thing - would be great to have a dark mode for night use. Any chance
+this is on the roadmap? Happy to beta test if you need it.
+
+Cheers, Priya

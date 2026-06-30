@@ -1,0 +1,10 @@
+From: Marco Ruiz <marco.ruiz@example.com>
+Subject: Charged twice for one order
+Order: ORD-51204
+Channel: email
+
+Hi team, I placed a single order yesterday but I see two identical charges of 89.90 EUR
+on my card (transaction refs TX-7781 and TX-7782). I only received one order
+confirmation. Can you refund the duplicate? Thanks for the quick help.
+
+Marco
